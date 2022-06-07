@@ -1,14 +1,15 @@
-Module Connection ---.
+Module Connection:
 
-For encoder Pin_D12.
 
-For Ping Pin_D5.
+For encoder Pin_D12
 
-For QTI sensor (D9, D8, D7, D6).
+For Ping Pin_D5
 
-For Motor (D10, D11).
+For QTI sensor (D9, D8, D7, D6)
 
-For XBEE (D1, D0).
+For Motor (D10, D11)
+
+For XBEE (D1, D0)
 
 
 
